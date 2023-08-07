@@ -40,7 +40,7 @@ Make sure to reload the extension after making changes to the `config.json` file
 
 ## Feedback and Bug Reports
 
-If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/LEOKA037/your-repo-name/issues) on GitHub. We welcome any feedback and are eager to make this extension better!
+If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/LEOKA037/SmartSearch/issues) on GitHub. We welcome any feedback and are eager to make this extension better!
 
 ## License
 
